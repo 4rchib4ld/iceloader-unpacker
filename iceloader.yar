@@ -2,6 +2,7 @@ rule iceloaderpacker {
     meta:
         author      = "4rchib4ld"
         description = "Iceloader"
+        reference   = "https://4rchib4ld.github.io/blog/HoneymoonOnIceloader/"
         type        = "malware.loader"
         created     = "2021-05-14"
         os          = "windows"
